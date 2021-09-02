@@ -30,7 +30,7 @@ Esse é meu perfil do GitHub, aqui você pode encontrar alguns dos projetos que 
 Contribuições são sempre bem vindas!  
 
 ##### Sobre mim:
-Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente curso Doutorado em Química Computacional. Busco me especializar em Ciência de Dados,  utilizando linguangens computacionais e ferramentas estatísticas.
+Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente curso Doutorado em Química Computacional. Busco me especializar em Ciência de Dados,  utilizando linguangens de programação e ferramentas estatísticas.
 
 
 ### Linguagens e Ferramentas: 
