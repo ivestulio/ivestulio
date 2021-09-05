@@ -1,7 +1,5 @@
 
-
-
-<!--
+<!--/
 **ivestulio/ivestulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -71,4 +69,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 * Química Bacharelado - UFBA 
 
 ### Projetos de Data Science:
+#### em Python
+#### em R 
+
 ### Projetos de SQL:
