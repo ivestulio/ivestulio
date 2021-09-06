@@ -1,24 +1,11 @@
-<img align= left src="https://drive.google.com/thumbnail?id=1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc" width ="8%"  />
-<!--/
-**ivestulio/ivestulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" alt="GIF" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" style="max-width: 100%;">
+<img align= left src="https://drive.google.com/thumbnail?id=1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc" width ="16%" />
 
-1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc/view?usp=sharing
+## Ives Santos 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
- ## Ives Santos 
- <p>
-  <a href="https://www.linkedin.com/in/ives-tulio/" rel="nofollow"><img src="https://camo.githubusercontent.com/57b24e7ae3973f7c7b41313aeb5a3193b673eed50dd91e481800cbb43d4ad8ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b6172696e6e656372697374696e61706572656972612f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ives-tulio//" style="max-width:100%;"></a>
+ 
+<p><a href="https://www.linkedin.com/in/ives-tulio/" rel="nofollow"><img src="https://camo.githubusercontent.com/57b24e7ae3973f7c7b41313aeb5a3193b673eed50dd91e481800cbb43d4ad8ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b6172696e6e656372697374696e61706572656972612f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ives-tulio//" style="max-width:100%;"></a>
 <a href="https://www.kaggle.com/ivessantos" rel="nofollow"><img src="https://camo.githubusercontent.com/66449517ff209d7b87164679b157ebfad1137d811a014eb5adf9e83f9749c41e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b6167676c652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6b6167676c652e636f6d2f6b6172696e6e65" alt="Kaggle Badge" data-canonical-src="https://img.shields.io/badge/-kaggle-blue?style=flat-square&amp;logo=kaggle&amp;logoColor=white&amp;link=https://www.kaggle.com/ivessantos" style="max-width:100%;"></a>
 </p>
 
