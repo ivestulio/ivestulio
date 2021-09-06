@@ -1,9 +1,9 @@
-
+<img align= left src="https://drive.google.com/thumbnail?id=1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc" width ="8%"  />
 <!--/
 **ivestulio/ivestulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="GIF" src="https://camo.githubusercontent.com/a98ec88042f69d36f3900668309e445a6df51dcf20e1ecac2b33a81da775af38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" style="max-width: 100%;">
 
-
-
+1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc/view?usp=sharing
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
  ## Ives Santos 
  <p>
