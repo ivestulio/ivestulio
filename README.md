@@ -41,6 +41,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 * Estatística para Análise de Dados com Python - Udemy
 * SQL - SoftBlue
 * Bootcamp Cientista de Dados - IGTI
+* SQL Basics - W3 - FREE , Sem certificado
 
 <!--* Estatística para Análise de dados com R 
 * Bootcamp Análise de Dados - IGTI
