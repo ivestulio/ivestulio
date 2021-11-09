@@ -37,6 +37,12 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 ### DATA SCIENCE:
 #### Python 
 [Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)
+[Modelo preditivo Doenças Hepáticas](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Preditivo%20doencas%20hepaticas)
+[Modelo preditivo potabilidade de amostras de água](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-potabilidade-amostras-de-gua.ipynb)
+[Lung Cancer Predictions](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Lung_Cancer_Prediction)
+[Modelo de classificação tipo de vidro](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-classifica-o-tipo-de-vidro.ipynb)
+
+
 #### R Language
 ### SOFTWARES:
 #### Chemical
