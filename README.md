@@ -1,6 +1,6 @@
-<img align= left src="https://drive.google.com/thumbnail?id=1Z5d6QW0dmYZVMwtCGyxn_6csY7IXtKbc" width ="16%" />
+<img align= left src="https://user-images.githubusercontent.com/83380670/140974993-df218f35-fda1-48f2-92bd-06b028b97a6f.png" width="151%" height="70%" />
 
-## Ives Santos 
+
 
 ( Em construção ..Atualizando...)
 
