@@ -2,7 +2,7 @@
 
 ## Ives Santos 
 
-( Em construção ...)
+( Em construção ..Atualizando...)
 
  
 <p><a href="https://www.linkedin.com/in/ives-tulio/" rel="nofollow"><img src="https://camo.githubusercontent.com/57b24e7ae3973f7c7b41313aeb5a3193b673eed50dd91e481800cbb43d4ad8ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6b6172696e6e656372697374696e61706572656972612f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ives-tulio//" style="max-width:100%;"></a>
@@ -36,18 +36,29 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 ## PROJECTS:
 ### DATA SCIENCE:
 #### Python 
+[Repository](https://github.com/ivestulio/Data-Science-Projects-Python)
+
 [Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)
+
 [Modelo preditivo Doenças Hepáticas](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Preditivo%20doencas%20hepaticas)
+
 [Modelo preditivo potabilidade de amostras de água](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-potabilidade-amostras-de-gua.ipynb)
+
 [Lung Cancer Predictions](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Lung_Cancer_Prediction)
+
 [Modelo de classificação tipo de vidro](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-classifica-o-tipo-de-vidro.ipynb)
 
 
 #### R Language
-### SOFTWARES:
+[Análise Descritiva - Síndrome Respiratória Aguda Grave](https://github.com/ivestulio/Data-Science-Projects-R/blob/main/1-srag_sp.Rmd)
+
+[Análise Descritiva - Covid - Estado de São Paulo, Brasil]()
+### DEV. SOFTWARES:
 #### Chemical
+[Reorganization Energy]()
 ### DATA BASE:
 #### SQL
+[Solução de Problemas](https://github.com/ivestulio/SQL-Problems)
 #### Spark 
 
 
