@@ -52,7 +52,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 #### R Language
 [Análise Descritiva - Síndrome Respiratória Aguda Grave](https://github.com/ivestulio/Data-Science-Projects-R/blob/main/1-srag_sp.Rmd)
 
-[Análise Descritiva - Covid - Estado de São Paulo, Brasil]()
+[Análise Descritiva - Covid - Estado de São Paulo, Brasil](https://github.com/ivestulio/Data-Science-Projects-R/blob/main/covid_SP.R)
 ### DEV. SOFTWARES:
 #### Chemical
 [Reorganization Energy]()
