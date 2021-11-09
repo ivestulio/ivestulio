@@ -39,6 +39,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 ### Cursos:
 * Introdução ao Python - Udemy
 * Estatística para Análise de Dados com Python - Udemy
+* Linguagem R para Análise de Dados - Udemy 
 * SQL - SoftBlue
 * SQL Basics - W3 - FREE , Sem certificado
 * Bootcamp Cientista de Dados - IGTI
