@@ -36,6 +36,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 ## PROJECTS:
 ### DATA SCIENCE:
 #### Python 
+[Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)
 #### R Language
 ### SOFTWARES:
 #### Chemical
