@@ -30,11 +30,27 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="60" height="60"/></a>  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
  <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="sqlite" width="70" height="50"/> </a> 
- 
- 
+  
  </p>
 
+## PROJECTS:
+### DATA SCIENCE:
+#### Python 
+#### R Language
+### SOFTWARES:
+#### Chemical
+### DATA BASE:
+#### SQL
+#### Spark 
 
+
+
+
+
+
+
+
+## CURRICULUM 
 
 ### Cursos:
 * Introdução ao Python - Udemy
@@ -57,8 +73,4 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 * Mestrado Química Analítica - UFBA
 * Química Bacharelado - UFBA 
 
-### Projetos de Data Science:
-#### em Python
-#### em R 
 
-### Projetos de SQL:
