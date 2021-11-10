@@ -33,7 +33,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
   
  </p>
 
-## PROJECTS:
+##  📁 PROJECTS:
 ### DATA SCIENCE:
 #### Python 
 [Repository](https://github.com/ivestulio/Data-Science-Projects-Python)
@@ -53,6 +53,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 [Análise Descritiva - Síndrome Respiratória Aguda Grave](https://github.com/ivestulio/Data-Science-Projects-R/blob/main/1-srag_sp.Rmd)
 
 [Análise Descritiva - Covid - Estado de São Paulo, Brasil](https://github.com/ivestulio/Data-Science-Projects-R/blob/main/covid_SP.R)
+___
 ### DEV. SOFTWARES:
 #### Chemical
 [Reorganization Energy]()
