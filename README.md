@@ -38,8 +38,10 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 #### Python 
 [Repository](https://github.com/ivestulio/Data-Science-Projects-Python)
 
-[Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)<br>
+[Análise Descritiva HIV/AIDS](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/HIV_AIDS_OMS)<br>
+Esse projeto tem como objetivo fornecer uma vizualização dos dados sobre HIV/AIDS fornecidos pela OMS em uma cobertura global entre os anos de 1990 e 2020.
 
+[Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)<br>
 Create a model to assess the likehood of a possible heart disease event <br>
 * What is the relationship between parameter and heart disease ?<br>
 * What age is most affected by this diseses ?
