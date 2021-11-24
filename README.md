@@ -36,12 +36,14 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
 ##  📁 PROJECTS:
 ### DATA SCIENCE:
 #### Python 
-[Repository](https://github.com/ivestulio/Data-Science-Projects-Python)
 
-[Análise Descritiva HIV/AIDS](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/HIV_AIDS_OMS)<br>
+[Análise Preditiva - Qualidade da água](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Agua_qualidade)<br>
+O objetivo do projeto é criar um modelo de predição da qualidade da água.
+
+[Análise Descritiva - HIV/AIDS](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/HIV_AIDS_OMS)<br>
 Esse projeto tem como objetivo fornecer uma vizualização dos dados sobre HIV/AIDS fornecidos pela OMS em uma cobertura global entre os anos de 1990 e 2020.
 
-[Modelo preditivo Doenças Hepáticas](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Preditivo%20doencas%20hepaticas)<br>
+[Análise Preditiva - Doenças Hepáticas](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Preditivo%20doencas%20hepaticas)<br>
 O objetivo desse projeto é gerar um modelo de predição de possível doença hepática usando como parâmetros de entrada o resultado laboratórial de sangue. Para isso será utilizado 7 modelos de classificação.
 
 [Heart Failure Prediction](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Heart%20Failure%20Prediction)<br>
@@ -50,11 +52,14 @@ Create a model to assess the likehood of a possible heart disease event <br>
 * What age is most affected by this diseses ?
 
 
-[Modelo preditivo potabilidade de amostras de água](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-potabilidade-amostras-de-gua.ipynb)
+
+
+
 
 [Lung Cancer Predictions](https://github.com/ivestulio/Data-Science-Projects-Python/tree/main/Lung_Cancer_Prediction)
 
 [Modelo de classificação tipo de vidro](https://github.com/ivestulio/Data-Science-Projects-Python/blob/main/modelo-classifica-o-tipo-de-vidro.ipynb)
+
 
 
 #### R Language
