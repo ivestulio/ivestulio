@@ -89,6 +89,7 @@ ___
 Pessoais - Enap
 * Introdução ao Python - Udemy
 * Estatística para Análise de Dados com Python - Udemy
+* Análise de Dados em Linguagem R - Enap 
 * Linguagem R para Análise de Dados - Udemy 
 * SQL - SoftBlue
 * SQL Basics - W3 - FREE , Sem certificado
