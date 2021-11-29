@@ -85,6 +85,8 @@ ___
 ## CURRICULUM 
 
 ### Cursos:
+* Introdução à Lei Brasileira de Proteção de Dados
+Pessoais - Enap
 * Introdução ao Python - Udemy
 * Estatística para Análise de Dados com Python - Udemy
 * Linguagem R para Análise de Dados - Udemy 
