@@ -30,6 +30,7 @@ Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente cu
  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="35" height="35"/></a>  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="sqlite" width="25" height="25"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="sqlite" width="25" height="25"/> </a> 
  <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="sqlite" width="45" height="30"/> </a> 
+  <a href="https://www.tableau.com/pt-br" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau.svg" alt="sqlite" width="80" height="30"/> </a>
   
  </p>
 
