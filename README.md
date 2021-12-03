@@ -86,6 +86,7 @@ ___
 ## CURRICULUM 
 
 ### Cursos:
+* Big Data - FIAP 
 * Introdução à Lei Brasileira de Proteção de Dados
 Pessoais - Enap
 * Introdução ao Python - Udemy
@@ -94,7 +95,7 @@ Pessoais - Enap
 * Linguagem R para Análise de Dados - Udemy 
 * SQL - SoftBlue
 * SQL Basics - W3 - FREE , Sem certificado
-* Bootcamp Cientista de Dados - IGTI
+
 
 
 <!--* Estatística para Análise de dados com R 
