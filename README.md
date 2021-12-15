@@ -14,7 +14,11 @@ Esse é meu perfil do GitHub, aqui você pode encontrar alguns dos projetos que 
 Contribuições são sempre bem vindas!  
 
 ##### Sobre mim:
-Sou formado em Química pela UFBa, possuo mestrado em Analítica e atualmente curso Doutorado em Química Computacional. Busco me especializar em Ciência de Dados,  utilizando linguagens de programação e ferramentas estatísticas.
+
+Sou formado em Química pela UFBA, trabalhei dois anos como Analista na General Electric, onde realizei a análise dos dados de insumo, qualidade de efluentes e amostras dos processos industriais, realização de relatórios gerenciais e apresentação dos resultados para os engenheiros das plantas. 
+Diante das competências, busquei me dedicar a uma especialização acadêmica para desenvolver maiores  habilidades. Fiz mestrado em Química Analítica e prossegui com o Doutorado em Ciências.
+Agora, finalizando essa etapa, estou em busca de uma oportunidade como Cientista de Dados.
+
 
 <h3 align="left">Languages and Tools:</h3>
 
