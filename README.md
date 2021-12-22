@@ -1,5 +1,6 @@
-<img align= left src="https://user-images.githubusercontent.com/83380670/140976943-962cfcdd-f707-43ff-8ead-0058128286b2.jpg" width="151%" height="70%" />
+<img align= left src="https://user-images.githubusercontent.com/83380670/147164518-d088e25b-8c04-45e9-9177-0e887092d1a5.jpg" width="151%" height="70%" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivestulio&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ( Em construção ..Atualizando...)
