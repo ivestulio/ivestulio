@@ -91,7 +91,8 @@ ___
 ## CURRICULUM 
 
 ### Cursos:
-* Cloud Fundamentals, Administration and Solution Architect
+* Cloud Fundamentals, Administration and Solution Architect - FIAP
+* Linux Fundamentos - FIAP
 * Big Data - FIAP 
 * Introdução à Lei Brasileira de Proteção de Dados
 Pessoais - Enap
